@@ -1,2 +1,2 @@
-# Pysha-Hashing
+# PySHA Hashing
 
