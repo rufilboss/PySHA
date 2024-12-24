@@ -69,7 +69,7 @@ python -m unittest discover
 - Produces a 256-bit (32-byte) hash output.
 - Utilizes 64 rounds of processing with a fixed set of constants and bitwise operations.
 
-### SHA-512 (Planned)
+### SHA-512 (On it...)
 
 - Operates on 1024-bit blocks.
 - Produces a 512-bit (64-byte) hash output.
