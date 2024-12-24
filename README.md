@@ -10,7 +10,7 @@ PySHA is a pure Python implementation of three widely used cryptographic hash al
   - **SHA-1 Specification**: FIPS PUB 180-1
   - **SHA-256 and SHA-512 Specifications**: FIPS PUB 180-4
 - Pure Python implementation with no external dependencies for the core algorithms.
-- Fully tested against known test vectors to ensure correctness.
+<!-- - Fully tested against known test vectors to ensure correctness. -->
 
 ## Getting Started
 
