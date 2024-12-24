@@ -94,4 +94,9 @@ Contributions are welcome! If you'd like to contribute:
 
 ## Acknowledgements
 
-This project was inspired by [Truthixify]("https://github.com/Truthixify/sha/") and the concept was derived from SHA specifications.
+- This project was inspired by [Truthixify](https://github.com/Truthixify/sha) and the concept was derived from [SHA specifications](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf).
+<!-- - Test vectors from [NIST](https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program). -->
+
+---
+
+**Happy hashing!**
